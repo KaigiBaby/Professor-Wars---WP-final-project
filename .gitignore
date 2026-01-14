@@ -1,0 +1,21 @@
+## Visual Studio 暫存與編譯檔案
+[Ob]j/
+[Bb]in/
+*.user
+*.userosscache
+*.sln.docstates
+
+## 訂閱與個人設定
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## 測試結果
+TestResults/
+
+## 忽略編譯出的執行檔 (如果你想保留原始碼，但不希望別人直接拿走編譯好的 .exe)
+*.exe
+*.dll
+*.pdb

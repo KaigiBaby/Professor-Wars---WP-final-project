@@ -1,0 +1,135 @@
+D:\VB\pagetest\bin\Debug\pagetest.exe.config
+D:\VB\pagetest\bin\Debug\pagetest.exe
+D:\VB\pagetest\bin\Debug\pagetest.pdb
+D:\VB\pagetest\bin\Debug\pagetest.xml
+D:\VB\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+D:\VB\pagetest\obj\Debug\pagetest.Form1.resources
+D:\VB\pagetest\obj\Debug\pagetest.Resources.resources
+D:\VB\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+D:\VB\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+D:\VB\pagetest\obj\Debug\pagetest.exe
+D:\VB\pagetest\obj\Debug\pagetest.xml
+D:\VB\pagetest\obj\Debug\pagetest.pdb
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\bin\Debug\pagetest.exe
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\bin\Debug\pagetest.pdb
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\bin\Debug\pagetest.xml
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.exe
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.xml
+C:\Users\jie84\OneDrive\Desktop\pagetest (3)\pagetest\obj\Debug\pagetest.pdb
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\bin\Debug\pagetest.exe
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\bin\Debug\pagetest.pdb
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\bin\Debug\pagetest.xml
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.exe
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.xml
+C:\Users\tuhon\source\repos\pagetest (3)\pagetest\obj\Debug\pagetest.pdb
+C:\Users\tuhon\source\repos\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\tuhon\source\repos\pagetest\bin\Debug\pagetest.exe
+C:\Users\tuhon\source\repos\pagetest\bin\Debug\pagetest.pdb
+C:\Users\tuhon\source\repos\pagetest\bin\Debug\pagetest.xml
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.exe
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.xml
+C:\Users\tuhon\source\repos\pagetest\obj\Debug\pagetest.pdb
+C:\Users\user\Downloads\12.31\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\user\Downloads\12.31\pagetest\bin\Debug\pagetest.exe
+C:\Users\user\Downloads\12.31\pagetest\bin\Debug\pagetest.pdb
+C:\Users\user\Downloads\12.31\pagetest\bin\Debug\pagetest.xml
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.exe
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.xml
+C:\Users\user\Downloads\12.31\pagetest\obj\Debug\pagetest.pdb
+C:\Users\user\Downloads\1.4\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\user\Downloads\1.4\pagetest\bin\Debug\pagetest.exe
+C:\Users\user\Downloads\1.4\pagetest\bin\Debug\pagetest.pdb
+C:\Users\user\Downloads\1.4\pagetest\bin\Debug\pagetest.xml
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.exe
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.xml
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.pdb
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\1.4\pagetest\obj\Debug\pagetest.vbproj.ResolveComReference.cache
+C:\Users\user\Downloads\1.4\pagetest\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\1.4\pagetest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.vbproj.ResolveComReference.cache
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.exe
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.xml
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.pdb
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\bin\Debug\pagetest.exe
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\bin\Debug\pagetest.pdb
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\bin\Debug\pagetest.xml
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\1.4(1)\1.4\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.ResolveComReference.cache
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.exe
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.xml
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.pdb
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.exe
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.pdb
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.xml
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\Interop.WMPLib.dll
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.ResolveComReference.cache
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.exe
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.xml
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.pdb
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.exe.config
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.exe
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.pdb
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\bin\Debug\pagetest.xml
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\bin\Debug\Interop.WMPLib.dll
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.Form1.resources
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.Resources.resources
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.GenerateResource.cache
+C:\Users\jie84\OneDrive\Desktop\教授大戰\教授大戰\教授大戰\pagetest\obj\Debug\pagetest.vbproj.CoreCompileInputs.cache
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\pagetest.vbproj.AssemblyReference.cache
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\Interop.WMPLib.dll
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\pagetest.vbproj.ResolveComReference.cache
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\pagetest.exe
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\pagetest.xml
+C:\Users\gigi9\OneDrive\Desktop\教授大戰\pagetest\obj\Debug\pagetest.pdb
